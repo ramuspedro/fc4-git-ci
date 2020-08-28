@@ -1,1 +1,1 @@
-# fc4-git-ci
+# FC4 - Git CI
