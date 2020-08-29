@@ -5,5 +5,6 @@
 ## Run 
 
 ```sh
+# migration db
 $ npm run typeorm migration:create -- --name CreateCategoryTable
 ``` 
